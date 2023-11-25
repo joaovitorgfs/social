@@ -49,6 +49,8 @@ Considerando que a igualdade deve ser baseada no id das entidades. <br />
 • Uso correto das convenções de nomenclatura em Java (CamelCase para nomes de classes e métodos, ALL_CAPS para constantes, etc.). <br />
 • Correto mapeamento objeto-relacional das classes no banco de dados. <br />
 • Implementação correta das operações CRUD, considerando todas as especificações mencionadas. <br />
+</p>  
+<p align="center">  
 <img alt="EXERCICIO" src="https://github.com/joaovitorgfs/banco-de-dados/blob/main/SCRIPT%20-%2002/img/exercicio.png" /> <br />
 </p>
 </div>
